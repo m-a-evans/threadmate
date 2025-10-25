@@ -1,0 +1,2 @@
+# threadmate
+Process affinity setter
